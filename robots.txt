@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eechooxiev.css-box-shadow-generator.com/sitemap.xml
